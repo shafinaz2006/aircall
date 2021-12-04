@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import getCallData from "../../data/getCallData";
 import { CallWrapper, CallDate, CallInfo, Button, CallNumber, Icon, Number, Name, CallTime, Time, Period } from "./styled";
 
@@ -19,7 +20,7 @@ const Call = (props) => {
         <CallNumber>
           <Number>+{callNumber}</Number>
           <Name>{callText}<span>{callName}</span></Name>
-          <Button><a href={`/#/calls/${call.id}`}>Details</a> </Button>
+          <Button><Link to={`/calls/${call.id}`}>Details</Link> </Button>
           {!call.is_archived && <Button onClick={(event) => archiveCall(call.id)}>Archive</Button>}
         </CallNumber>
         <CallTime>

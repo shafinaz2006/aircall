@@ -1,23 +1,4 @@
 import React from 'react';
-import styled from 'styled-components';
-
-const HeaderLinkWrapper = styled.div`
-  margin: 2rem;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-`;
-const HeaderLink = styled.a`
-  border: ${props => props.current? '2px': '1px'} solid ${props => props.current? 'orange': 'gray'};
-  padding: 0.5rem;
-  margin-right: 1rem;
-  text-align: center;
-  font-size: 1.25rem;
-  color: black;
-  opacity: 0.5;
-  border-radius: 8px;
-  margin: 0.5rem;
-`;
 
 const Header = () => {
   return (
@@ -39,11 +20,7 @@ const Header = () => {
         </g>
       </svg>
     </header>
-    <HeaderLinkWrapper>
-      <HeaderLink href='/#/activities' current={window.location.href.indexOf('activities') !== -1} >Activities </HeaderLink>
-      <HeaderLink href='/#/incomingcalls' current={window.location.href.indexOf('incoming') !== -1} > Incomings </HeaderLink>
-      <HeaderLink href='/#/archivedcalls' current={window.location.href.indexOf('archived') !== -1} >Archived </HeaderLink>
-  </HeaderLinkWrapper>
+    
   </>
   );
 };

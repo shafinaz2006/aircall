@@ -26,3 +26,15 @@
 #app .container-view {
     padding: 20px;
 }
+
+.link {
+    border: 1px solid gray;
+    padding: 0.5rem;
+    margin-right: 1rem;
+    text-align: center;
+    font-size: 1.25rem;
+    color: black;
+    opacity: 0.5;
+    border-radius: 8px;
+    margin: 0.5rem;
+}

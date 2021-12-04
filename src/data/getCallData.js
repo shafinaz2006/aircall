@@ -3,7 +3,6 @@ import {useState, useEffect} from 'react';
 import axios from 'axios';
 
 function getCallData(){
-
   const [allCalls, setAllCalls] = useState([]);
   const [incomingCalls, setIncomingCalls] = useState([]);
   const [callDetail, setCallDetail] = useState({});
@@ -69,7 +68,6 @@ function getCallData(){
   const archiveAllCalls = () =>{
     for(let i = 0; i < allCalls.length; i++){
       if(!allCalls[i].is_archived){
-        console.log('archived');
         archiveCall(allCalls[i].id);
       }
     }
