@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/aircall/static/css/main.507c94a7.chunk.css",
-    "main.js": "/aircall/static/js/main.4358ca87.chunk.js",
-    "main.js.map": "/aircall/static/js/main.4358ca87.chunk.js.map",
+    "main.js": "/aircall/static/js/main.e3b9119e.chunk.js",
+    "main.js.map": "/aircall/static/js/main.e3b9119e.chunk.js.map",
     "runtime-main.js": "/aircall/static/js/runtime-main.5f1aede3.js",
     "runtime-main.js.map": "/aircall/static/js/runtime-main.5f1aede3.js.map",
     "static/js/2.7d73fa8d.chunk.js": "/aircall/static/js/2.7d73fa8d.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.5f1aede3.js",
     "static/js/2.7d73fa8d.chunk.js",
     "static/css/main.507c94a7.chunk.css",
-    "static/js/main.4358ca87.chunk.js"
+    "static/js/main.e3b9119e.chunk.js"
   ]
 }
