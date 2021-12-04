@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/aircall/static/css/main.507c94a7.chunk.css",
+    "main.js": "/aircall/static/js/main.b4585c85.chunk.js",
+    "main.js.map": "/aircall/static/js/main.b4585c85.chunk.js.map",
+    "runtime-main.js": "/aircall/static/js/runtime-main.5f1aede3.js",
+    "runtime-main.js.map": "/aircall/static/js/runtime-main.5f1aede3.js.map",
+    "static/js/2.65e6e78f.chunk.js": "/aircall/static/js/2.65e6e78f.chunk.js",
+    "static/js/2.65e6e78f.chunk.js.map": "/aircall/static/js/2.65e6e78f.chunk.js.map",
+    "index.html": "/aircall/index.html",
+    "static/css/main.507c94a7.chunk.css.map": "/aircall/static/css/main.507c94a7.chunk.css.map",
+    "static/js/2.65e6e78f.chunk.js.LICENSE.txt": "/aircall/static/js/2.65e6e78f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f1aede3.js",
+    "static/js/2.65e6e78f.chunk.js",
+    "static/css/main.507c94a7.chunk.css",
+    "static/js/main.b4585c85.chunk.js"
+  ]
+}
