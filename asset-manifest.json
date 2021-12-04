@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/aircall/static/css/main.507c94a7.chunk.css",
-    "main.js": "/aircall/static/js/main.2b97f929.chunk.js",
-    "main.js.map": "/aircall/static/js/main.2b97f929.chunk.js.map",
+    "main.js": "/aircall/static/js/main.4358ca87.chunk.js",
+    "main.js.map": "/aircall/static/js/main.4358ca87.chunk.js.map",
     "runtime-main.js": "/aircall/static/js/runtime-main.5f1aede3.js",
     "runtime-main.js.map": "/aircall/static/js/runtime-main.5f1aede3.js.map",
-    "static/js/2.e1a09e1d.chunk.js": "/aircall/static/js/2.e1a09e1d.chunk.js",
-    "static/js/2.e1a09e1d.chunk.js.map": "/aircall/static/js/2.e1a09e1d.chunk.js.map",
+    "static/js/2.7d73fa8d.chunk.js": "/aircall/static/js/2.7d73fa8d.chunk.js",
+    "static/js/2.7d73fa8d.chunk.js.map": "/aircall/static/js/2.7d73fa8d.chunk.js.map",
     "index.html": "/aircall/index.html",
     "static/css/main.507c94a7.chunk.css.map": "/aircall/static/css/main.507c94a7.chunk.css.map",
-    "static/js/2.e1a09e1d.chunk.js.LICENSE.txt": "/aircall/static/js/2.e1a09e1d.chunk.js.LICENSE.txt"
+    "static/js/2.7d73fa8d.chunk.js.LICENSE.txt": "/aircall/static/js/2.7d73fa8d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5f1aede3.js",
-    "static/js/2.e1a09e1d.chunk.js",
+    "static/js/2.7d73fa8d.chunk.js",
     "static/css/main.507c94a7.chunk.css",
-    "static/js/main.2b97f929.chunk.js"
+    "static/js/main.4358ca87.chunk.js"
   ]
 }
